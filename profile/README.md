@@ -24,22 +24,6 @@ This botnet is not designed to be hidden on a computer. Disguising the traffic r
 > - <b>Franchise:</b> A subsystem node that can be functionally independent. 
 ## Folder Structure
 
-### Source
-- [Overall](DA2/) Source code for the project
-
-### Applications
-- [Director Server](DA2/src/com/jtelaa/da2/director/) CLI Interface into the network.
-- [Director Client](da2_tools/director_interface/) Connect to the director
-- [Scheduler](DA2/src/com/jtelaa/da2/scheduler/) Used to distribute vms over time. Also holds logging info
-### Deployments
-- [Server Config](deployments/) The deployment/configuration scripts
-- [Database](database/) Structure for the database
-- [VPN Gateways](vpn-gateway/) VPN Gateway Scripts
-- [Franchisee Webserver](franchisee_webserver/) Server with info for the franchise. 
-- [DA2 Tools](da2_tools/) Misc tools and programs to assist the botnet
-### Documentation
-- [Project Info](documentation/) Misc information on the project
-
 
 ## Instructions
 
