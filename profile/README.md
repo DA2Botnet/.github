@@ -45,14 +45,6 @@ This botnet is not designed to be hidden on a computer. Disguising the traffic r
 
 Please see [deployment guide](DeploymentGuide.md) for detailed instructions
 
-## Diagrams
-
-### Adminstrative Structure
-<img src='https://raw.githubusercontent.com/DA2Botnet/Docs/main/images/DA2%20Administrative%20Structure.svg'>
-
-### Franchise Structure
-<img src='https://raw.githubusercontent.com/DA2Botnet/Docs/main/images/DA2%20Franchise%20Structure.svg'>
-
 ## Misc
 
 > Checkout Branch: ```git checkout -B <wip> main```
