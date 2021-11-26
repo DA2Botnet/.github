@@ -48,10 +48,10 @@ Please see [deployment guide](DeploymentGuide.md) for detailed instructions
 ## Diagrams
 
 ### Adminstrative Structure
-<img src='documentation/DA2 Administrative Structure.svg'>
+<img src='https://raw.githubusercontent.com/DA2Botnet/Docs/main/images/DA2%20Administrative%20Structure.svg'>
 
 ### Franchise Structure
-<img src='documentation/DA2 Franchise Structure.svg'>
+<img src='https://raw.githubusercontent.com/DA2Botnet/Docs/main/images/DA2%20Franchise%20Structure.svg'>
 
 ## Misc
 
